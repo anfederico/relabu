@@ -1,0 +1,42 @@
+	superkingdom 	kingdom 	phylum 	class 	order 	family 	genus 	species 	no rank
+ti|226186|org|Bacteroides_thetaiotaomicron_VPI-5482 	Bacteria 	others 	Bacteroidetes 	Bacteroidia 	Bacteroidales 	Bacteroidaceae 	Bacteroides 	Bacteroides thetaiotaomicron 	Bacteroidetes/Chlorobi group
+ti|566546|org|Escherichia_coli_W 	Bacteria 	others 	Proteobacteria 	Gammaproteobacteria 	Enterobacteriales 	Enterobacteriaceae 	Escherichia 	Escherichia coli 	cellular organisms
+ti|751585|org|Coprococcus_sp._ART55/1 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	Coprococcus 	others 	Terrabacteria group
+ti|435591|org|Parabacteroides_distasonis_ATCC_8503 	Bacteria 	others 	Bacteroidetes 	Bacteroidia 	Bacteroidales 	Porphyromonadaceae 	Parabacteroides 	Parabacteroides distasonis 	Bacteroidetes/Chlorobi group
+ti|515619|org|Eubacterium_rectale_ATCC_33656 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	others 	[Eubacterium] rectale 	unclassified Lachnospiraceae
+ti|349741|org|Akkermansia_muciniphila_ATCC_BAA-835 	Bacteria 	others 	Verrucomicrobia 	Verrucomicrobiae 	Verrucomicrobiales 	Akkermansiaceae 	Akkermansia 	Akkermansia muciniphila 	PVC group
+ti|367928|org|Bifidobacterium_adolescentis_ATCC_15703 	Bacteria 	others 	Actinobacteria 	Actinobacteria 	Bifidobacteriales 	Bifidobacteriaceae 	Bifidobacterium 	Bifidobacterium adolescentis 	Terrabacteria group
+ti|322159|org|Streptococcus_thermophilus_LMD-9 	Bacteria 	others 	Firmicutes 	Bacilli 	Lactobacillales 	Streptococcaceae 	Streptococcus 	Streptococcus thermophilus 	Terrabacteria group
+ti|213810|org|Ruminococcus_champanellensis_18P13 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Ruminococcaceae 	Ruminococcus 	Ruminococcus champanellensis 	Terrabacteria group
+ti|717959|org|Alistipes_shahii_WAL_8301 	Bacteria 	others 	Bacteroidetes 	Bacteroidia 	Bacteroidales 	Rikenellaceae 	Alistipes 	Alistipes shahii 	Bacteroidetes/Chlorobi group
+ti|420247|org|Methanobrevibacter_smithii_ATCC_35061 	Archaea 	others 	Euryarchaeota 	Methanobacteria 	Methanobacteriales 	Methanobacteriaceae 	Methanobrevibacter 	Methanobrevibacter smithii 	cellular organisms
+ti|347253|org|Streptococcus_salivarius_JIM8777 	Bacteria 	others 	Firmicutes 	Bacilli 	Lactobacillales 	Streptococcaceae 	Streptococcus 	Streptococcus salivarius 	Terrabacteria group
+ti|1069533|org|Streptococcus_infantarius_subsp._infantarius_CJ18 	Bacteria 	others 	Firmicutes 	Bacilli 	Lactobacillales 	Streptococcaceae 	Streptococcus 	Streptococcus infantarius 	Terrabacteria group
+ti|479436|org|Veillonella_parvula_DSM_2008 	Bacteria 	others 	Firmicutes 	Negativicutes 	Veillonellales 	Veillonellaceae 	Veillonella 	Veillonella parvula 	Terrabacteria group
+ti|657314|org|Ruminococcus_obeum_A2-162 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	Blautia 	Blautia obeum 	Terrabacteria group
+ti|245012|org|butyrate-producing_bacterium_SM4/1 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	others 	others 	others 	unclassified Clostridiales (miscellaneous)
+ti|717961|org|Eubacterium_siraeum_V10Sc8a 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Ruminococcaceae 	Ruminiclostridium 	[Eubacterium] siraeum 	Terrabacteria group
+ti|515620|org|Eubacterium_eligens_ATCC_27750 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Eubacteriaceae 	Eubacterium 	[Eubacterium] eligens 	Terrabacteria group
+ti|862965|org|Haemophilus_parainfluenzae_T3T1 	Bacteria 	others 	Proteobacteria 	Gammaproteobacteria 	Pasteurellales 	Pasteurellaceae 	Haemophilus 	Haemophilus parainfluenzae 	cellular organisms
+ti|679935|org|Alistipes_finegoldii_DSM_17242 	Bacteria 	others 	Bacteroidetes 	Bacteroidia 	Bacteroidales 	Rikenellaceae 	Alistipes 	Alistipes finegoldii 	Bacteroidetes/Chlorobi group
+others 	others 	others 	others 	others 	others 	others 	others 	others 	others
+ti|657323|org|Ruminococcus_sp._SR1/5 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Ruminococcaceae 	Ruminococcus 	others 	Terrabacteria group
+ti|701521|org|Pediococcus_claussenii_ATCC_BAA-344 	Bacteria 	others 	Firmicutes 	Bacilli 	Lactobacillales 	Lactobacillaceae 	Pediococcus 	Pediococcus claussenii 	Terrabacteria group
+ti|299768|org|Streptococcus_thermophilus_CNRZ1066 	Bacteria 	others 	Firmicutes 	Bacilli 	Lactobacillales 	Streptococcaceae 	Streptococcus 	Streptococcus thermophilus 	Terrabacteria group
+ti|272559|org|Bacteroides_fragilis_NCTC_9343 	Bacteria 	others 	Bacteroidetes 	Bacteroidia 	Bacteroidales 	Bacteroidaceae 	Bacteroides 	Bacteroides fragilis 	Bacteroidetes/Chlorobi group
+ti|435590|org|Bacteroides_vulgatus_ATCC_8482 	Bacteria 	others 	Bacteroidetes 	Bacteroidia 	Bacteroidales 	Bacteroidaceae 	Bacteroides 	Bacteroides vulgatus 	Bacteroidetes/Chlorobi group
+ti|709991|org|Odoribacter_splanchnicus_DSM_20712 	Bacteria 	others 	Bacteroidetes 	Bacteroidia 	Bacteroidales 	Odoribacteraceae 	Odoribacter 	Odoribacter splanchnicus 	Bacteroidetes/Chlorobi group
+ti|536056|org|Escherichia_coli_DH1 	Bacteria 	others 	Proteobacteria 	Gammaproteobacteria 	Enterobacteriales 	Enterobacteriaceae 	Escherichia 	Escherichia coli 	cellular organisms
+ti|717962|org|Coprococcus_catus_GD/7 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	Coprococcus 	Coprococcus catus 	Terrabacteria group
+ti|391904|org|Bifidobacterium_longum_subsp._infantis_ATCC_15697_=_JCM_1222 	Bacteria 	others 	Actinobacteria 	Actinobacteria 	Bifidobacteriales 	Bifidobacteriaceae 	Bifidobacterium 	Bifidobacterium longum 	Terrabacteria group
+ti|657318|org|Eubacterium_rectale_DSM_17629 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	others 	[Eubacterium] rectale 	unclassified Lachnospiraceae
+ti|595495|org|Escherichia_coli_KO11FL 	Bacteria 	others 	Proteobacteria 	Gammaproteobacteria 	Enterobacteriales 	Enterobacteriaceae 	Escherichia 	Escherichia coli 	cellular organisms
+ti|1064535|org|Megasphaera_elsdenii_DSM_20460 	Bacteria 	others 	Firmicutes 	Negativicutes 	Veillonellales 	Veillonellaceae 	Megasphaera 	Megasphaera elsdenii 	Terrabacteria group
+ti|657322|org|Faecalibacterium_prausnitzii_SL3/3 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Ruminococcaceae 	Faecalibacterium 	Faecalibacterium prausnitzii 	Terrabacteria group
+ti|657315|org|Roseburia_intestinalis_M50/1 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	Roseburia 	Roseburia intestinalis 	Terrabacteria group
+ti|245018|org|butyrate-producing_bacterium_SSC/2 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	Anaerostipes 	others 	Terrabacteria group
+ti|657313|org|Ruminococcus_torques_L2-14 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	Blautia 	[Ruminococcus] torques 	Terrabacteria group
+ti|657321|org|Ruminococcus_bromii_L2-63 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Ruminococcaceae 	Ruminococcus 	Ruminococcus bromii 	Terrabacteria group
+ti|717608|org|Clostridium_cf._saccharolyticum_K10 	Bacteria 	others 	Firmicutes 	Clostridia 	Clostridiales 	Lachnospiraceae 	Lachnoclostridium 	[Clostridium] saccharolyticum 	Terrabacteria group
+ti|568816|org|Acidaminococcus_intestini_RyC-MR95 	Bacteria 	others 	Firmicutes 	Negativicutes 	Acidaminococcales 	Acidaminococcaceae 	Acidaminococcus 	Acidaminococcus intestini 	Terrabacteria group
+ti|702459|org|Bifidobacterium_bifidum_PRL2010 	Bacteria 	others 	Actinobacteria 	Actinobacteria 	Bifidobacteriales 	Bifidobacteriaceae 	Bifidobacterium 	Bifidobacterium bifidum 	Terrabacteria group
