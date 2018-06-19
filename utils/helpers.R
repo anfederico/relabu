@@ -16,6 +16,11 @@ upsample.ra <- function(ra.unranked, tax.table, newlev) {
   return(df.ra)
 }
 
+log.cpm <- function(df){
+  df.cpm <- apply(df, 2, function(y) log10(y*1e6/sum(y) + 1))
+  return(df.cpm)
+}
+
 count.to.ra <- function(otu_count) {
   otu_relabu <- otu_count
   for (i in 1:ncol(otu_count))  {
@@ -31,6 +36,10 @@ pstat.extraction <- function(p) {
   # Taxon Levels
   # unranked taxon x classifications
   tables$TAX <- as.data.frame(p@tax_table)
+
+  # Counts
+  # unranked taxon x samples
+  tables$OTU <- as.data.frame(p@otu_table)
 
   # Relative Abundance
   # unranked taxon x samples
